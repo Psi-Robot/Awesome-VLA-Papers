@@ -181,6 +181,7 @@ This repository contains the list of representative VLA works in the survey “[
 - **CoVLA**, *CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving*, 2024.08, WACV 2025 Oral. [[📄 Paper](https://arxiv.org/abs/2408.10845)] [[🌍 Website](https://turingmotors.github.io/covla-ad/)] [[📊 Dataset](https://huggingface.co/datasets/turing-motors/CoVLA-Dataset)]
 - **EMMA**, *EMMA: End-to-End Multimodal Model for Autonomous Driving*, 2024.10. [[📄 Paper](https://arxiv.org/abs/2410.23262)]
 - **VLM-E2E**, *VLM-E2E: Enhancing End-to-End Autonomous Driving with Multimodal Driver Attention Fusion*, 2025.02. [[📄 Paper](https://arxiv.org/abs/2502.18042)]
+- **WAM-Flow**, *WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving*, CVPR 2026. [[📄 Paper](https://arxiv.org/abs/2512.06112)] [[💻 Code](https://github.com/fudan-generative-vision/WAM-Flow)] [[🤗 Model](https://huggingface.co/fudan-generative-ai/WAM-Flow)]
 
 # Goal State as Action Tokens
 
